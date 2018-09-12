@@ -1,6 +1,6 @@
 
 
-tabla = int(input("ingrese que tabla desea multiplicar: "))
+tabla = 5
 num = 1
 while num<=10 :
     print (tabla, "*", num, "=", tabla * num)
